@@ -83,17 +83,23 @@ a {
 }
 
 
+
 .hero-btn {
+    background-color: #4D5AE5;
     color: #FFFFFF;
     font-size: 16px;
+    font-size: normal;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    background: #4D5AE5;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
-    cursor: pointer;
-
 }
+
+.hero-btn :hover,
+.hero-btn :active .hero-btn :focus {
+    background-color: #404bbf;
+}
+
+
 
 
 
