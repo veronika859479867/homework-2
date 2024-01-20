@@ -38,7 +38,6 @@ a {
     color: #4D5AE5;
     font-family: Raleway;
     font-size: 18px;
-    font-weight: 700;
     line-height: 1.16;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -61,7 +60,6 @@ a {
     color: #434455;
     font-style: normal;
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
@@ -154,7 +152,6 @@ a {
     color: #434455;
     text-align: center;
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
@@ -186,7 +183,6 @@ a {
 .portfolio-item-text {
     color: #434455;
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
@@ -205,7 +201,6 @@ a {
     color: #4D5AE5;
     font-family: Raleway;
     font-size: 18px;
-    font-weight: 700;
     line-height: 1.16;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -219,7 +214,6 @@ a {
     color: #F4F4FD;
     font-family: Roboto;
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
