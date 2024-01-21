@@ -128,7 +128,7 @@ a {
 /*team*/
 
 .team {
-    background-color: #FFFFFF;
+    background: #F4F4FD;
 }
 
 .team-title {
@@ -205,11 +205,11 @@ a {
 
 .footer-logo {
     color: #4D5AE5;
-    font-family: Raleway;
     font-size: 18px;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    font-weight: 700;
 }
 
 .footer-logo-part {
