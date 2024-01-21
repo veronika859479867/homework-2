@@ -45,7 +45,7 @@ a {
 
 .header-menu-link:hover,
 .header-menu-link:focus {
-    background-color: #404bbf;
+    color: #404bbf;
 }
 
 
@@ -62,7 +62,7 @@ a {
 
 .header-address-link:hover,
 .header-address-link:focus {
-    background-color: #404bbf;
+    color: #404bbf;
 }
 
 
