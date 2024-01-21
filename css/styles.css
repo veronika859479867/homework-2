@@ -132,7 +132,7 @@ a {
 }
 
 .team-title {
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: #2E2F42;
     text-align: center;
     font-size: 36px;
     line-height: 1.11;
@@ -205,6 +205,7 @@ a {
 
 .footer-logo {
     color: #4D5AE5;
+    font-family: Raleway, sans-serif;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
